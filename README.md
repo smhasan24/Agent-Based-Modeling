@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE) - you are free to use,
 ## Author
 **SM Hasan**  
 - MSc in Artificial Intelligence and Robotics, University of Hertfordshire  
-- [LinkedIn](https://www.linkedin.com/in/smhasan24) | [GitHub](https://github.com/smhasan24)
+- [LinkedIn](https://www.linkedin.com/in/hasanmahmud032/) | [GitHub](https://github.com/smhasan24)
 
 For queries or suggestions, please feel free to raise an issue or contact me directly.
 

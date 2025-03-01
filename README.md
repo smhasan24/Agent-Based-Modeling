@@ -25,6 +25,8 @@ This NetLogo model simulates the spread of a disease within a population divided
 ## How It Works
 The model uses turtles to represent individuals in the population. Each turtle has attributes such as infection status, antibodies, and group affiliation. The model simulates the spread of the disease based on interactions between turtles and the effects of various interventions.
 
+![ABM model Features](https://github.com/smhasan24/Agent-Based-Modeling/blob/main/ABM.png)
+
 ### Rules for Agents
 - **Movement**: Turtles move randomly, with adjustments for social distancing and travel restrictions.
 - **Infection Spread**: Infected turtles can spread the disease to nearby susceptible turtles based on the infection rate.
